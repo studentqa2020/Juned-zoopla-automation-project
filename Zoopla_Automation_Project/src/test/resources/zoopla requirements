@@ -1,0 +1,22 @@
+Prerequisite:
+First, Understand the requirements, create account and run at list one time manually then automate.
+
+Steps:
+1)	Go to this url https://www.zoopla.co.uk
+2)	Click on Login Button, enter valid credential & submit login button.
+3)	You will get a home page; on that page verify website title.
+4)	Enter location (New York, Lincolnshire) & Search it.
+5)	Print all the price values in sorted order (desc.) on the console.
+6)	I need to select the fifth property on that list (it is changing every minute, so it is dynamic)
+7)	On the next page, verify there is a logo, name and telephone no, of the agent * logout.
+
+Solution Expectations:
+-	Java is mandatory
+1.	Code should be designed within (Page Object Model)
+2.	Define all the proper variables and methods name.
+3.	Code should work without any error
+4.	Use TestNG library to write the test cases
+5.	Use Cucumber with BDD approach & Cucumber reports as well
+6.	Use valid required assertions.
+7.	Use Git Repository
+8.	Use Jenkins for CI/CD
